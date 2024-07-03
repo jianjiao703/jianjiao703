@@ -30,7 +30,7 @@
 -  java,python,Golang,E
 -  android,逆向分析，数据采集
 
-
+<img src="https://github.com/jianjiao007/jianjiao007/blob/main/wx.png" width="300" />
 <!--
 🔗 &nbsp;**联系我**
 <p align="left">
