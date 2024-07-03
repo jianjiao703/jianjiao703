@@ -1,4 +1,4 @@
-## Hi there 👋
+## 哈喽啊，我是尖叫 👋
 
 <!--
 **jianjiao007/jianjiao007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianjiao007)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=jianjiao007&locale=cn&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianjiao007&locale=cn&theme=radical&layout=compact" />
+</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jianjiao007" />
