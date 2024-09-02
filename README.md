@@ -29,7 +29,7 @@
 -  主业前端，熟练掌握前端各类开发框架以及各种提升效率的类库
 -  java,python,Golang,E
 -  android,逆向分析，数据采集
-
+-  专注于电商类业务开发，sku采集，截流，逆向
 <img src="https://github.com/jianjiao007/jianjiao007/blob/main/wx.png" width="300" />
 <!--
 🔗 &nbsp;**联系我**
